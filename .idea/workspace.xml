@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d0987f1-eb83-4897-b247-d465b1d1e65b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/common.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/model/api_response.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/model/post.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/model/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/post_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/screans/auth/login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/screans/auth/register.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/screans/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/screans/loading.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/services/post_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blog_flutter/lib/services/user_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/simple-it/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/simple-it/verify.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyMojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/IMaliConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/CheckTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/ConfirmPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/GeneratePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/GenerateQrcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/module/IMaliTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/response/GenerateTransactionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/data/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/network/NetworkBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/common/ConfigUrls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/entities/auth/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/entities/auth/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../partners/src/main/java/com/kaya/partners/partners/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/RefundController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/chves" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/images/imali_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/images/profile/profile-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/orders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vendor/imali/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../webpack.mix.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MMtEFc6WZRrFPBJG0PnK52sle3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="java-imali-sdk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0987f1-eb83-4897-b247-d465b1d1e65b" name="Changes" comment="" />
+      <created>1677589173513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677589173513</updated>
+      <workItem from="1677589174877" duration="232000" />
+      <workItem from="1677589439613" duration="393000" />
+      <workItem from="1677589872068" duration="5515000" />
+      <workItem from="1677671504516" duration="612000" />
+      <workItem from="1677674312537" duration="1196000" />
+      <workItem from="1677741158190" duration="13640000" />
+      <workItem from="1677790237225" duration="15620000" />
+      <workItem from="1677874499981" duration="2942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/model/GeneratePayment.java</url>
+          <line>12</line>
+          <properties class="org.example.model.GeneratePayment" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
